@@ -11,4 +11,4 @@ Chat bot supports the following commands:
  
   !convertimage - converts text on image to dyslexic friendly font.
   
-  !toSpeech - converts text on image to voice message.
+  !toSpeech - **(incomplete)** converts text on image to voice message.
